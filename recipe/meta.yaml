@@ -1,4 +1,4 @@
-{% set version = "0.8.1.2360" %}
+{% set version = "0.9.0.2693" %}
 
 package:
   name: cublasmp
